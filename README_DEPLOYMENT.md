@@ -27,5 +27,3 @@ The resulting held-out test performance for this saved artifact was:
 - Class-1 recall: 0.7556
 - Class-1 F1: 0.8395
 - ROC-AUC from predicted labels: 0.8777
-
-Upload the three `.joblib` artifacts unchanged.
